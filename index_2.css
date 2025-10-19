@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #000000;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+}
+
+h3 {
+    color: darkblue;
+}
+
+form {
+    background-color: #ffffff;
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #000000;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+td {
+    padding: 5px;
+}
+
+input, select {
+    width: 95%;
+    padding: 4px;
+    border: 1px solid #999999;
+}
+
+input[type="submit"] {
+    background-color: navy;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+}
